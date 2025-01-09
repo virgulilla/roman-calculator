@@ -1,0 +1,11 @@
+# Exclude Visual Studio Code settings
+.vscode/
+
+# Exclude pytest cache
+.pytest_cache/
+
+# Exclude virtual environments
+env/
+
+# Exclude Python bytecode
+__pycache__/
