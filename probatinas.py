@@ -1,5 +1,6 @@
 import tkinter as tk
 from calc.views import Calculator
+from calc.models.keys import Key, TiposTecla
 
 
 def fn_delegada(btn_clickado: str):
